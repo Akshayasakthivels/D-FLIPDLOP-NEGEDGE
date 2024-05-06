@@ -68,6 +68,8 @@ end
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+
+
 ![image](https://github.com/Akshayasakthivels/D-FLIPDLOP-NEGEDGE/assets/144870561/827b96ed-ff2a-4295-9c4f-ffddceb8c40f)
 
 
